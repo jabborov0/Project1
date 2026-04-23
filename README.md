@@ -128,7 +128,7 @@
 <script>
     const API_URL = "https://open.er-api.com/v6/latest/";
 
-> Ⓔ︎Ⓛ︎Ⓑ︎Ⓔ︎Ⓚ︎:
+
 const amountInput = document.getElementById('amount');
     const fromSelect = document.getElementById('fromCurrency');
     const toSelect = document.getElementById('toCurrency');
